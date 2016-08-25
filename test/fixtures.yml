@@ -934,6 +934,11 @@ spreedly_core:
   password: "Y2i7AjgU03SUjwY4xnOPqzdsv4dMbPDCQzorAk8Bcoy0U8EIVE4innGjuoMQv7MN"
   gateway_token: "3gLeg4726V5P0HK7cq7QzHsL0a6"
 
+sqid_rapid_pay:
+  login: X
+  api_key: Y
+  pass_phrase: Z
+
 # Working credentials, no need to replace
 stripe:
   login: sk_test_3OD4TdKSIOhDOL2146JJcC79
